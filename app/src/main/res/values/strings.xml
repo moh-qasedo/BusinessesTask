@@ -1,0 +1,8 @@
+
+<resources>
+    <string name="app_name">Businesses</string>
+    <string name="cost_effective">Cost Effective</string>
+    <string name="bit_priceir">Bit Priceir</string>
+    <string name="big_spender">Big Spender</string>
+    <string name="restaurant_description">restaurant description</string>
+</resources>
